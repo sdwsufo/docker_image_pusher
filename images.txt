@@ -18,3 +18,4 @@ a76yyyy/qiandao
 hectorqin/reader
 haishanh/yacd
 dreamacro/clash
+jonnyan404/verysync
