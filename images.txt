@@ -1,21 +1,11 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 whyour/qinglong
 rustdesk/rustdesk-server-s6
 luodaoyi/kms-server
 gdy666/lucky
 frooodle/s-pdf
 vaultwarden/server
-xhofe/alist
-xiaoyaliu/alist
 hslr/sun-panel
 helloz/onenav
 a76yyyy/qiandao
 hectorqin/reader
-haishanh/yacd
-dreamacro/clash
 jonnyan404/verysync
